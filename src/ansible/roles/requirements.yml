@@ -1,0 +1,4 @@
+---
+roles:
+- UniInc.Snapd
+- UniInc.CLion
