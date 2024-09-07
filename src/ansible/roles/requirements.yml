@@ -2,3 +2,4 @@
 roles:
 - UniInc.Snapd
 - UniInc.CLion
+- UniInc.Cpp-Build-Essential
