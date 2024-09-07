@@ -1,3 +1,4 @@
 - hosts: localhost
   roles:
   - UniInc.CLion
+  - UniInc.Cpp-Build-Essential
